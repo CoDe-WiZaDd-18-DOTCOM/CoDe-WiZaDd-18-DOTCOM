@@ -6,8 +6,6 @@
 
 🌱 I’m currently learning backend development and advancing my competitive programming skills.
 
-💞️ I’m looking to collaborate on projects involving Django, ReactJS, Spring Boot.
-
 📫 How to reach me: [jaswanthm811@gmail.com]
 
 😄 Pronouns: He/Him
